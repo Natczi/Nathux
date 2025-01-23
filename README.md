@@ -1,2 +1,2 @@
 # Nathux
-Portfolio de projetos em UX Design.
+My projetcs in UX/UI Design.
